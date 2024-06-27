@@ -10,7 +10,7 @@ MK_list.remove(2)
 #Modifying the element
 MK_list[0] = 10
 
-#inserting an element (changing the element value to a new value)
+#inserting an element (changing the elements value to a new value)
 MK_list.insert(2, "TWO")
 
 #To print the list
